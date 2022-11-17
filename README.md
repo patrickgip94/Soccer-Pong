@@ -6,3 +6,8 @@ The main goal of the game is to get as much points without letting the ball pass
 ![enter image description here](https://i.imgur.com/Ar7S7jD.png)
 ![enter image description here](https://i.imgur.com/ZrR4k2u.png)
 ![enter image description here](https://i.imgur.com/czQGBmA.png)
+
+## Built with
+- React Native
+- JavaScript
+- Expo
